@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc6230</color>
+    <color name="colorPrimaryDark">#fc6230</color>
+    <color name="colorAccent">#fc6230</color>
+    <color name="navigationBarColor">#202851</color>
+    <color name="textColorPrimary">#f77a52</color>
+    <color name="unselected_text">#8c92b9</color>
+    <color name="hint_color_light">#d5d3d3</color>
+    <color name="hint_color_dark">#989898</color>
+    <color name="question_hint_color">#FF5B5B5B</color>
+    <color name="facebook">#4A6CA9</color>
+    <color name="black_color">#000000</color>
+    <color name="orange_light">#FFFDB39B</color>
+    <color name="background_color">#FDFDFD</color>
+    <color name="green_color">#8dc63f</color>
+    <color name="bottom_color">#EEEEEE</color>
+    <color name="bottom_ripple_color">#FFF9F9F9</color>
+    <color name="dark_grey">#ee000000</color>
+    <color name="red_color">#ee2830</color>
+    <color name="red_effect">#F4898D</color>
+    <color name="no_cards_color">#67686c</color>
+    <color name="light_white_transparent">#a1f9f7f7</color>
+    <color name="light_grey">#d9d8d8</color>
+    <color name="view_line_color">#e2e1e1</color>
+    <color name="view_line_color_orange">#FFFFC2AE</color>
+    <color name="you_choose_color">#8CCCE0</color>
+    <color name="receive_color">#E8E9EB</color>
+
+
+    <color name="confett1">#f26644</color>
+    <color name="confett2">#ffc75c</color>
+    <color name="confett3">#7ac7a4</color>
+    <color name="confett4">#4dc7d9</color>
+    <color name="confett5">#1094648c</color>
+
+    <color name="black_tint">#ee000000</color>
+    <color name="black_tint_more">#33000000</color>
+    <color name="askmo_titlecolor">#dcdfea</color>
+
+
+    <color name="non_selected_color">#D5D5D5</color>
+    <color name="policy_background_color">#F2F3F7</color>
+    <color name="orange_card_color">#E06E3C</color>
+    <color name="ok_color">#5787AD</color>
+    <color name="yellow_color">#D9984C</color>
+
+    <color name="light_color">#878DB5</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="transperent">#80FFFFFF</color>
+
+</resources>
